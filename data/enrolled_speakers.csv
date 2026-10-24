@@ -1,0 +1,4 @@
+speaker_id,speaker_name,passphrase,embedding_vector_mock
+SPK001,Alice Johnson,"My voice is my password",0.12;-0.45;0.88;0.33;-0.15
+SPK002,Bob Smith,"Access secure banking portal",-0.33;0.65;0.12;-0.22;0.41
+SPK003,Charlie Davis,"Authorize my transaction please",0.45;0.11;-0.72;0.19;0.05
